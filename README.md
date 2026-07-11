@@ -91,3 +91,4 @@ Building agentic systems at [Roadie](https://roadie.io). On my own time: pushing
 *I started in UI because I cared how tools felt, then followed the work down the stack. Give me the messy domain.*
 
 </div>
+<!-- profile -->
