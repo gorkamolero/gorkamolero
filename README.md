@@ -1,72 +1,93 @@
+<div align="center">
+
 # Gorka Molero
 
-Senior AI product engineer building agentic tools, operational automation, and creative systems for ambiguous real-world domains.
+**Senior AI Product Engineer** — agent tooling, live products, and operational systems with real stakes.
 
-I turn messy domains into working systems: developer-agent workflows, trading and research infrastructure, creative AI tools, publishing platforms, data products, and business workflow automation. I started from frontend and UI craft, but the center of my work is product judgment: understanding the real workflow, simplifying the system, and shipping something people can use.
+📍 Madrid · 🌍 Remote, international · 🏗️ Building since 2012 · Currently at [Roadie](https://roadie.io)
 
-## Current Focus
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=flat-square)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)
+![Tauri](https://img.shields.io/badge/Tauri-24C8DB?logo=tauri&logoColor=white&style=flat-square)
 
-- Agentic tooling and developer workflows.
-- AI products for complex or under-specified domains.
-- Operational automation for founders, operators, and unusual businesses.
-- Creative systems for games, music, story, media, and publishing.
-- Full-stack products where taste and technical range both matter.
+[![Portfolio](https://img.shields.io/badge/Portfolio-case_studies-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-swart-six-85.vercel.app)
+[![Contact](https://img.shields.io/badge/Contact-private_review-2ea44f?style=flat-square&logo=minutemailer&logoColor=white)](https://portfolio-swart-six-85.vercel.app/contact.html)
 
-## Selected Public Work
+</div>
 
-| Project | Signal |
-| --- | --- |
-| [`paperclip-adapter-openrouter`](https://github.com/gorkamolero/paperclip-adapter-openrouter) | OpenRouter adapter work, model routing, and direct tool-loop execution for Paperclip. |
-| [`sidekick`](https://github.com/gorkamolero/sidekick) | Music producer's copilot; creative AI product and domain tooling. |
-| [`saga-ai`](https://github.com/gorkamolero/saga-ai) / [`saga-agentic-ai`](https://github.com/gorkamolero/saga-agentic-ai) | Agentic story creation and creative workflow systems. |
-| [`datomania`](https://github.com/gorkamolero/datomania) | Public-data product judgment around data that should be easier to access. |
+Hand me a messy domain with real stakes and I'll turn the workflow into software you can use, inspect, and improve — trading infrastructure, AI storytelling games, publishing tools, developer agents. Everything below is real, and most of it you can click.
 
-## Moving Into This Profile
+## Start here
 
-These projects should become part of the `gorkamolero` public body of work after the right cleanup, migration, or privacy pass:
+Three things running right now:
 
-| Project | Public treatment |
-| --- | --- |
-| `claude-on-discord` | Full Claude Code on Discord implementation: threads as coding lanes, tool streaming, shell/PR workflows, and supervisor controls. |
-| `solderpunk` | Interactive synth explorers with MIDI control, cited instrument corpora, and local agent Q&A. |
-| `streamtui` | Rust TUI and CLI for media search, streams, subtitles, casting, and JSON automation. |
-| `lingua-priority` | Small polished UX library for language ordering by real usage and browser preferences. |
-| `anima` / `will` | Graphic-adventure authoring system and playable game pipeline. |
-| `the-pulse` | AI-powered interactive storytelling platform. |
-| `koda` | Review-first agent IDE and workspace system. |
-| `maestro` | Headless life/work manager direction; canonical repo is `spanishflu-est1918/maestro`. |
+- 🎭 **[The Pulse](https://the-pulse.games)** — an AI narrator runs an interactive-fiction game for a group in real time: text, generated scenes, voice, atmosphere. Underneath it, a playtest harness scores narration quality with simulated player groups.
+- 📖 **[Hotpress](https://hotpress.app)** — collaborative writing and publishing where every save renders a press-ready book (PDF/EPUB). I built it to print my own translations of old books.
+- 🤖 **[claude-on-discord](https://github.com/gorkamolero/claude-on-discord)** — Claude Code running in Discord threads, so you can delegate real coding work from anywhere with a human kept in the loop.
 
-## Private Systems, Public Case Studies
+## The work, by domain
 
-Some of the strongest systems are private because they involve trading operations, sensitive business workflows, or private data. I publish sanitized architecture views and can share deeper review material selectively.
+### 🎮 Games — AI storytelling
 
-| System | Public-safe description |
-| --- | --- |
-| `mercurius` | Live trading infrastructure with market/execution daemons, risk gates, rehearsal paths, operator surfaces, and post-trade forensics. |
-| `infinity` | Options strategy research and readiness system with source mapping, proof windows, quote audits, and staged gates. |
-| `land` | Digital transformation work for rural craft and land operations: county data, parcel signals, deal boards, owner workflows, and AI-assisted due diligence. |
+Making AI do something genuinely compelling in a videogame — real branching narrative, not a chatbot in a costume.
 
-## What I Am Good At
+- 🎭 **[the-pulse](https://the-pulse.games)** — live multiplayer AI storytelling, with an evaluation harness that scores the narrator
+- 🗺️ **[anima](https://github.com/gorkamolero/anima)** — graphic-adventure creation system with an AI art pipeline, plus a playable game
+- 📜 **[storyscript](https://portfolio-swart-six-85.vercel.app/storyscript.html)** — a plain-text language + headless engine for narrative games; test the story with AI agents before any graphics exist
 
-- Turning ambiguous workflows into usable software.
-- Building with agents instead of only prompting them.
-- Moving quickly without losing product taste.
-- Designing interfaces for dense, strange, or expert workflows.
-- Building across frontend, backend, data, automation, agents, CLIs, games, and operational systems.
-- Working close to founders, operators, and domain experts.
+### 🤖 Agents & developer tools
 
-## Role Fit
+Building *with* agents, not just prompting them — and building the rooms they work in.
 
-Strong fit for:
+- 🤖 **[claude-on-discord](https://github.com/gorkamolero/claude-on-discord)** — Claude Code in Discord threads
+- 🧑‍💻 **[koda](https://github.com/gorkamolero/koda)** — review-first desktop IDE for agent coding: checkpoints, visual diffs, isolated worktrees
+- 🎯 **[maestro](https://github.com/gorkamolero/maestro)** — headless life manager that agents can operate
+- 🔌 **[paperclip-adapter-openrouter](https://github.com/gorkamolero/paperclip-adapter-openrouter)** — model-routing adapter for an agent runtime
+- ✍️ **[saga-ai](https://github.com/gorkamolero/saga-ai)** — a writers' room of agents drafting long-form fiction
+- 💌 **[molter](https://github.com/gorkamolero/molter)** — agent-to-agent progressive-disclosure negotiation experiment
 
-- AI Product Engineer
-- Forward Deployed Engineer
-- Founding Engineer
-- Agentic Tooling Engineer
-- Developer Tools / AI Workflow Engineer
-- Solutions Engineer for AI transformation
-- Senior Full-Stack Product Engineer with AI focus
+### 🚀 Shipped products
 
-## Private Review
+- 📖 **[hotpress](https://hotpress.app)** — collaborative writing → press-ready books
+- 📊 **[datomania](https://datomania.info)** — Spanish public data made queryable, with a public API
+- 📺 **[streamtui](https://github.com/gorkamolero/streamtui)** — Rust terminal streaming client: search, cast, JSON automation
+- 🌐 **[lingua-priority](https://github.com/gorkamolero/lingua-priority)** — zero-dependency language pickers that respect where the user actually is
 
-Some flagship work is available as architecture walkthroughs, sanitized demos, or private code review where appropriate. The public profile is intentionally conservative around trading systems, business data, owner/parcel records, credentials, and private operational logs.
+### 🎛️ Creative & music tools
+
+- 🎛️ **[sidekick](https://github.com/gorkamolero/sidekick)** — desktop companion for music production
+- 🎹 **[solderpunk](https://github.com/gorkamolero/solderpunk)** — synth explorers, MIDI control, hardware-patching knowledge base
+- 🎨 **[carvingen](https://github.com/gorkamolero/carvingen)** — AI image/video generation canvas, built for a real carving business
+
+### 🔒 Private systems — real stakes
+
+Run with real money and real client data, so the code stays closed; I walk through architecture, tests, and forensics on request. Sanitized case studies are on the [portfolio](https://portfolio-swart-six-85.vercel.app).
+
+- 📈 **mercurius** — futures trading infrastructure: parity-tested backtest engine, safety gates, a live two-person operation
+- 🔍 **infinity** — options research where every parameter is cited and every claim has a regenerable artifact
+- 🏞️ **land unconditional** — automated land acquisition: county scanning, offer estimation, operator CRM
+
+## Now
+
+Building agentic systems at [Roadie](https://roadie.io). On my own time: pushing on AI storytelling in games (the-pulse / anima / storyscript) and keeping the trading infrastructure running.
+
+## Reach me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-case_studies-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-swart-six-85.vercel.app)
+[![Contact](https://img.shields.io/badge/Contact-demos_%26_private_review-2ea44f?style=flat-square&logo=minutemailer&logoColor=white)](https://portfolio-swart-six-85.vercel.app/contact.html)
+[![GitHub](https://img.shields.io/badge/GitHub-follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gorkamolero)
+
+- Portfolio & case studies → [portfolio-swart-six-85.vercel.app](https://portfolio-swart-six-85.vercel.app)
+- Private review or a demo of the closed systems → [contact](https://portfolio-swart-six-85.vercel.app/contact.html)
+
+---
+
+<div align="center">
+
+*I started in UI because I cared how tools felt, then followed the work down the stack. Give me the messy domain.*
+
+</div>
