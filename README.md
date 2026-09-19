@@ -14,8 +14,8 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)
 ![Tauri](https://img.shields.io/badge/Tauri-24C8DB?logo=tauri&logoColor=white&style=flat-square)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-case_studies-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-swart-six-85.vercel.app)
-[![Contact](https://img.shields.io/badge/Contact-private_review-2ea44f?style=flat-square&logo=minutemailer&logoColor=white)](https://portfolio-swart-six-85.vercel.app/contact.html)
+[![Portfolio](https://img.shields.io/badge/Portfolio-case_studies-000000?style=flat-square&logo=github&logoColor=white)](https://gorkamolero.github.io)
+[![Contact](https://img.shields.io/badge/Contact-private_review-2ea44f?style=flat-square&logo=minutemailer&logoColor=white)](https://gorkamolero.github.io/contact.html)
 
 </div>
 
@@ -37,7 +37,7 @@ Making AI do something genuinely compelling in a videogame — real branching na
 
 - 🎭 **[the-pulse](https://the-pulse.games)** — live multiplayer AI storytelling, with an evaluation harness that scores the narrator
 - 🗺️ **[anima](https://github.com/gorkamolero/anima)** — graphic-adventure creation system with an AI art pipeline, plus a playable game
-- 📜 **[storyscript](https://portfolio-swart-six-85.vercel.app/storyscript.html)** — a plain-text language + headless engine for narrative games; test the story with AI agents before any graphics exist
+- 📜 **[storyscript](https://gorkamolero.github.io/storyscript.html)** — a plain-text language + headless engine for narrative games; test the story with AI agents before any graphics exist
 
 ### 🤖 Agents & developer tools
 
@@ -65,7 +65,7 @@ Building *with* agents, not just prompting them — and building the rooms they 
 
 ### 🔒 Private systems — real stakes
 
-Run with real money and real client data, so the code stays closed; I walk through architecture, tests, and forensics on request. Sanitized case studies are on the [portfolio](https://portfolio-swart-six-85.vercel.app).
+Run with real money and real client data, so the code stays closed; I walk through architecture, tests, and forensics on request. Sanitized case studies are on the [portfolio](https://gorkamolero.github.io).
 
 - 📈 **mercurius** — futures trading infrastructure: parity-tested backtest engine, safety gates, a live two-person operation
 - 🔍 **infinity** — options research where every parameter is cited and every claim has a regenerable artifact
@@ -77,12 +77,12 @@ Building agentic systems at [Roadie](https://roadie.io). On my own time: pushing
 
 ## Reach me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-case_studies-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-swart-six-85.vercel.app)
-[![Contact](https://img.shields.io/badge/Contact-demos_%26_private_review-2ea44f?style=flat-square&logo=minutemailer&logoColor=white)](https://portfolio-swart-six-85.vercel.app/contact.html)
+[![Portfolio](https://img.shields.io/badge/Portfolio-case_studies-000000?style=flat-square&logo=github&logoColor=white)](https://gorkamolero.github.io)
+[![Contact](https://img.shields.io/badge/Contact-demos_%26_private_review-2ea44f?style=flat-square&logo=minutemailer&logoColor=white)](https://gorkamolero.github.io/contact.html)
 [![GitHub](https://img.shields.io/badge/GitHub-follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gorkamolero)
 
-- Portfolio & case studies → [portfolio-swart-six-85.vercel.app](https://portfolio-swart-six-85.vercel.app)
-- Private review or a demo of the closed systems → [contact](https://portfolio-swart-six-85.vercel.app/contact.html)
+- Portfolio & case studies → [portfolio-swart-six-85.vercel.app](https://gorkamolero.github.io)
+- Private review or a demo of the closed systems → [contact](https://gorkamolero.github.io/contact.html)
 
 ---
 
