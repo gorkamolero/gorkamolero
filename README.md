@@ -81,7 +81,7 @@ Building agentic systems at [Roadie](https://roadie.io). On my own time: pushing
 [![Contact](https://img.shields.io/badge/Contact-demos_%26_private_review-2ea44f?style=flat-square&logo=minutemailer&logoColor=white)](https://gorkamolero.github.io/contact.html)
 [![GitHub](https://img.shields.io/badge/GitHub-follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gorkamolero)
 
-- Portfolio & case studies → [portfolio-swart-six-85.vercel.app](https://gorkamolero.github.io)
+- Portfolio & case studies → [gorkamolero.github.io](https://gorkamolero.github.io)
 - Private review or a demo of the closed systems → [contact](https://gorkamolero.github.io/contact.html)
 
 ---
