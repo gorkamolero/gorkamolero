@@ -1,6 +1,23 @@
+<div align="center">
+
 # Gorka Molero
 
-Senior AI product engineer. Agent tooling, AI products, and operational systems with real stakes. Madrid, remote worldwide. Most recently at Roadie. Open to senior AI product roles, remote worldwide.
+**Senior AI Product Engineer** — agent tooling, live products, and operational systems with real stakes.
+
+📍 Madrid · 🌍 Remote, worldwide · 🏗️ Building since 2012 · Most recently at [Roadie](https://roadie.io) · Open to senior AI product roles
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=flat-square)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)
+![Tauri](https://img.shields.io/badge/Tauri-24C8DB?logo=tauri&logoColor=white&style=flat-square)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-case_studies-000000?style=flat-square&logo=github&logoColor=white)](https://gorkamolero.github.io)
+[![Contact](https://img.shields.io/badge/Contact-private_review-2ea44f?style=flat-square&logo=minutemailer&logoColor=white)](https://gorkamolero.github.io/contact.html)
+
+</div>
 
 ## Games
 
