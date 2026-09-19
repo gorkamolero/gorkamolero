@@ -2,93 +2,55 @@
 
 # Gorka Molero
 
-**Senior AI Product Engineer** — agent tooling, live products, and operational systems with real stakes.
+Senior AI Product Engineer · TypeScript, React, Node, Python · building for the web since 2012
 
-📍 Madrid · 🌍 Remote, international · 🏗️ Building since 2012 · Currently at [Roadie](https://roadie.io)
+Madrid · remote, international · currently at [Roadie](https://roadie.io)
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=flat-square)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)
-![Tauri](https://img.shields.io/badge/Tauri-24C8DB?logo=tauri&logoColor=white&style=flat-square)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-case_studies-000000?style=flat-square&logo=github&logoColor=white)](https://gorkamolero.github.io)
-[![Contact](https://img.shields.io/badge/Contact-private_review-2ea44f?style=flat-square&logo=minutemailer&logoColor=white)](https://gorkamolero.github.io/contact.html)
+[Portfolio](https://gorkamolero.github.io) · [Contact](https://gorkamolero.github.io/contact.html)
 
 </div>
 
-Hand me a messy domain with real stakes and I'll turn the workflow into software you can use, inspect, and improve — trading infrastructure, AI storytelling games, publishing tools, developer agents. Everything below is real, and most of it you can click.
+I build software for complicated workflows: developer platforms, editing tools, agent systems, and products that put AI to work. I started in UI and followed the work down the stack. Most of my time now goes to the structure around agents: what they can touch, how their work gets reviewed, and how to tell when they aren't delivering.
 
-## Start here
+## Live
 
-Three things running right now:
+- [The Pulse](https://the-pulse.games) — multiplayer interactive fiction narrated by AI: worlds, generated scenes, voice. A playtest harness scores the narrator against simulated player groups.
+- [Hotpress](https://hotpress.app) — collaborative writing and publishing. Every save renders a press-ready PDF and EPUB. Built to print my translations of old books.
+- [Datomania](https://datomania.info) — Spanish public data made queryable: parliament, representatives, exports, and a public API.
 
-- 🎭 **[The Pulse](https://the-pulse.games)** — an AI narrator runs an interactive-fiction game for a group in real time: text, generated scenes, voice, atmosphere. Underneath it, a playtest harness scores narration quality with simulated player groups.
-- 📖 **[Hotpress](https://hotpress.app)** — collaborative writing and publishing where every save renders a press-ready book (PDF/EPUB). I built it to print my own translations of old books.
-- 🤖 **[claude-on-discord](https://github.com/gorkamolero/claude-on-discord)** — Claude Code running in Discord threads, so you can delegate real coding work from anywhere with a human kept in the loop.
+## Agents and developer tools
 
-## The work, by domain
+- [claude-on-discord](https://github.com/gorkamolero/claude-on-discord) — Claude Code in Discord threads. One worktree per task, tool activity streamed, a human reviews before anything merges.
+- [koda](https://github.com/gorkamolero/koda) — desktop IDE for agent coding. Review first: checkpoints, visual diffs, isolated worktrees.
+- [paperclip-adapter-openrouter](https://github.com/gorkamolero/paperclip-adapter-openrouter) — runs Paperclip agents on 300+ models through one chat-completions tool loop.
+- [maestro](https://github.com/gorkamolero/maestro) — headless life manager: spaces, priorities, and working context that an agent can operate.
+- [saga-ai](https://github.com/gorkamolero/saga-ai) — a writers' room of agents drafting long-form fiction.
+- [molter](https://github.com/gorkamolero/molter) — two people's agents negotiate a match through five levels of progressive disclosure.
 
-### 🎮 Games — AI storytelling
+## Games
 
-Making AI do something genuinely compelling in a videogame — real branching narrative, not a chatbot in a costume.
+- [anima](https://github.com/gorkamolero/anima) — graphic-adventure creation system with an AI art pipeline, and its first playable game.
+- [storyscript](https://gorkamolero.github.io/storyscript.html) — a plain-text language and headless engine for narrative games. Test the story with AI agents before any graphics exist.
 
-- 🎭 **[the-pulse](https://the-pulse.games)** — live multiplayer AI storytelling, with an evaluation harness that scores the narrator
-- 🗺️ **[anima](https://github.com/gorkamolero/anima)** — graphic-adventure creation system with an AI art pipeline, plus a playable game
-- 📜 **[storyscript](https://gorkamolero.github.io/storyscript.html)** — a plain-text language + headless engine for narrative games; test the story with AI agents before any graphics exist
+## Tools
 
-### 🤖 Agents & developer tools
+- [streamtui](https://github.com/gorkamolero/streamtui) — terminal streaming client in Rust: search, cast to a screen, automate with JSON.
+- [lingua-priority](https://github.com/gorkamolero/lingua-priority) — zero-dependency language pickers that respect where the user actually is.
+- [sidekick](https://github.com/gorkamolero/sidekick) — desktop companion for music production: audio analysis and producer workflow.
+- [solderpunk](https://github.com/gorkamolero/solderpunk) — synth explorers, MIDI control, and a knowledge base for hardware patching.
+- [carvingen](https://github.com/gorkamolero/carvingen) — AI image and video canvas, built for a working carving business.
 
-Building *with* agents, not just prompting them — and building the rooms they work in.
+## Private systems
 
-- 🤖 **[claude-on-discord](https://github.com/gorkamolero/claude-on-discord)** — Claude Code in Discord threads
-- 🧑‍💻 **[koda](https://github.com/gorkamolero/koda)** — review-first desktop IDE for agent coding: checkpoints, visual diffs, isolated worktrees
-- 🎯 **[maestro](https://github.com/gorkamolero/maestro)** — headless life manager that agents can operate
-- 🔌 **[paperclip-adapter-openrouter](https://github.com/gorkamolero/paperclip-adapter-openrouter)** — model-routing adapter for an agent runtime
-- ✍️ **[saga-ai](https://github.com/gorkamolero/saga-ai)** — a writers' room of agents drafting long-form fiction
-- 💌 **[molter](https://github.com/gorkamolero/molter)** — agent-to-agent progressive-disclosure negotiation experiment
+These run with real money and real client data, so the code stays closed. I walk through architecture, tests, and post-trade forensics on request. Anything shown publicly uses synthetic data.
 
-### 🚀 Shipped products
+- mercurius — futures trading infrastructure: parity-tested backtest engine, safety gates, a live two-person operation.
+- infinity — options research pipeline: every parameter cited, every claim backed by a regenerable artifact.
+- land unconditional — automated land acquisition: county scanning, owner research, offer estimation, and a CRM for the operator.
 
-- 📖 **[hotpress](https://hotpress.app)** — collaborative writing → press-ready books
-- 📊 **[datomania](https://datomania.info)** — Spanish public data made queryable, with a public API
-- 📺 **[streamtui](https://github.com/gorkamolero/streamtui)** — Rust terminal streaming client: search, cast, JSON automation
-- 🌐 **[lingua-priority](https://github.com/gorkamolero/lingua-priority)** — zero-dependency language pickers that respect where the user actually is
+## Work
 
-### 🎛️ Creative & music tools
+Roadie, senior software engineer, 2024 to present: product and interface engineering for a developer platform, including agent workflows for engineering context. Before that I shipped Tiptap-based editors at Typeshare, co-founded and built Maility, worked on design systems at Chessable, and built internal tools at Adalab.
 
-- 🎛️ **[sidekick](https://github.com/gorkamolero/sidekick)** — desktop companion for music production
-- 🎹 **[solderpunk](https://github.com/gorkamolero/solderpunk)** — synth explorers, MIDI control, hardware-patching knowledge base
-- 🎨 **[carvingen](https://github.com/gorkamolero/carvingen)** — AI image/video generation canvas, built for a real carving business
-
-### 🔒 Private systems — real stakes
-
-Run with real money and real client data, so the code stays closed; I walk through architecture, tests, and forensics on request. Sanitized case studies are on the [portfolio](https://gorkamolero.github.io).
-
-- 📈 **mercurius** — futures trading infrastructure: parity-tested backtest engine, safety gates, a live two-person operation
-- 🔍 **infinity** — options research where every parameter is cited and every claim has a regenerable artifact
-- 🏞️ **land unconditional** — automated land acquisition: county scanning, offer estimation, operator CRM
-
-## Now
-
-Building agentic systems at [Roadie](https://roadie.io). On my own time: pushing on AI storytelling in games (the-pulse / anima / storyscript) and keeping the trading infrastructure running.
-
-## Reach me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-case_studies-000000?style=flat-square&logo=github&logoColor=white)](https://gorkamolero.github.io)
-[![Contact](https://img.shields.io/badge/Contact-demos_%26_private_review-2ea44f?style=flat-square&logo=minutemailer&logoColor=white)](https://gorkamolero.github.io/contact.html)
-[![GitHub](https://img.shields.io/badge/GitHub-follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gorkamolero)
-
-- Portfolio & case studies → [gorkamolero.github.io](https://gorkamolero.github.io)
-- Private review or a demo of the closed systems → [contact](https://gorkamolero.github.io/contact.html)
-
----
-
-<div align="center">
-
-*I started in UI because I cared how tools felt, then followed the work down the stack. Give me the messy domain.*
-
-</div>
+Case studies at [gorkamolero.github.io](https://gorkamolero.github.io). Demos of the private systems through [contact](https://gorkamolero.github.io/contact.html).
 <!-- profile -->
