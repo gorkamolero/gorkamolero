@@ -4,7 +4,7 @@
 
 **Senior AI Product Engineer** — agent tooling, live products, and operational systems with real stakes.
 
-📍 Madrid · 🌍 Remote, worldwide · 🏗️ Building since 2012 · Most recently at [Roadie](https://roadie.io) · Open to senior AI product roles
+📍 Madrid · 🌍 Remote, worldwide · 🏗️ Building since 2012 · Previously at [Roadie](https://roadie.io)
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square)
