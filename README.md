@@ -33,8 +33,9 @@ I push AI into places where it looks like it shouldn't work yet: long-form video
 
 ## AI media & music
 
-- [tubesleuth](https://github.com/gorkamolero/tubesleuth) — the 2023 Shorts pipeline: 205 Shorts in 34 days, 1,000 subscribers, under $1 each · source
-- [saga-ai](https://github.com/gorkamolero/saga-ai) — an agentic story studio: a writers' room of agents drafting long-form scripts · source
+- [cybertantra](https://gorkamolero.github.io/creative.html) — long-form AI video: 50-minute episodes with Eleven v4, Eleven Music and OpenAI ImageGen, cut in Remotion · watch
+- [talking statues](https://gorkamolero.github.io/creative.html) — wood carvings you can talk to in the forest, powered by Raspberry Pis with an ElevenLabs agent backend · watch
+- saga — the gen-AI pipeline behind my YouTube channels, in three iterations: [tubesleuth](https://github.com/gorkamolero/tubesleuth) (2023: 205 Shorts in 34 days, 1,000 subscribers), [saga-ai](https://github.com/gorkamolero/saga-ai) (2024: a writers' room of agents) and Cybertantra (2026: long-form) · source
 - [solderpunk](https://github.com/gorkamolero/solderpunk) — AI-assisted synth explorers: guided tutorials, live MIDI control, a cited knowledge base per instrument · source
 - [sidekick](https://github.com/gorkamolero/sidekick) — a music producer's copilot that sits beside Ableton Live · source
 - [carvingen](https://github.com/gorkamolero/carvingen) — a canvas for designing carvings with AI, from image variations to 3D models · source
@@ -47,6 +48,7 @@ I push AI into places where it looks like it shouldn't work yet: long-form video
 
 ## Shipped products
 
+- maility — outbound email SaaS for agencies, which I co-founded as CTO and built end to end: $20K MRR within two months of launch · 2022–2023
 - [hotpress](https://hotpress.app) — collaborative writing and publishing; every save renders a print-ready book · live
 - [datomania](https://datomania.info) — Spanish parliamentary data, searchable and exportable, with a public API · live
 - [streamtui](https://github.com/gorkamolero/streamtui) — a terminal streaming client in Rust: search, cast to a screen, script it with JSON · source
@@ -54,6 +56,7 @@ I push AI into places where it looks like it shouldn't work yet: long-form video
 
 ## Private systems
 
+- ai operations — an agent with company memory for a small US business, over Telegram, WhatsApp and voice, with an auction scout and Linear-fed dashboards
 - mercurius — futures trading infrastructure with a parity-tested backtester and safety gates, live with real money
 - infinity — options research where every parameter is cited and every claim can be regenerated
 - land unconditional — land acquisition on autopilot: county scans, owner research, offer estimates and a CRM
