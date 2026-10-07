@@ -28,7 +28,7 @@ I push AI into places where it looks like it shouldn't work yet: long-form video
 - [claude-on-discord](https://github.com/gorkamolero/claude-on-discord) — Claude Code in Discord: one worktree per thread, live tool activity, a human approving the work · source
 - [koda](https://github.com/gorkamolero/koda) — a desktop IDE for agent coding, built around review: checkpoints, visual diffs, isolated worktrees · source
 - [maestro](https://github.com/gorkamolero/maestro) — a headless life manager: spaces, priorities and working context that agents read and update · source
-- [paperclip-adapter-openrouter](https://github.com/gorkamolero/paperclip-adapter-openrouter) — 300+ models through OpenRouter in one tool loop, no local CLI · source
+- [paperclip-adapter-openrouter](https://github.com/gorkamolero/paperclip-adapter-openrouter) — any OpenRouter model through one tool loop, no local CLI · source
 - [molter](https://github.com/gorkamolero/molter) — people's agents negotiating a date for them, revealing details step by step · source
 
 ## AI media & music
@@ -49,7 +49,7 @@ I push AI into places where it looks like it shouldn't work yet: long-form video
 ## Shipped products
 
 - maility — outbound email SaaS for agencies, which I co-founded as CTO and built end to end: $20K MRR within two months of launch · 2022–2023
-- [hotpress](https://hotpress.app) — collaborative writing and publishing; every save renders a print-ready book · live
+- [hotpress](https://hotpress.app) — collaborative writing and publishing, with print-ready PDF and EPUB export · live
 - [datomania](https://datomania.info) — Spanish parliamentary data, searchable and exportable, with a public API · live
 - [streamtui](https://github.com/gorkamolero/streamtui) — a terminal streaming client in Rust: search, cast to a screen, script it with JSON · source
 - [lingua-priority](https://github.com/gorkamolero/lingua-priority) — language pickers with sensible defaults, in a small library · source
