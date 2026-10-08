@@ -24,8 +24,6 @@ I push AI into places where it looks like it shouldn't work yet: long-form video
 
 ## Agents & developer tools
 
-<a href="https://gorkamolero.github.io/#koda"><img src="https://gorkamolero.github.io/assets/koda/koda-poster.jpg" width="640" alt="Koda: Claude running on one Mac, a collaborator on another, in the same agent session"></a>
-
 - [koda](https://github.com/gorkamolero/koda) — a desktop app for working collaboratively with coding agents, where a teammate joins your Codex or Claude session live from their own machine · [watch](https://gorkamolero.github.io/#koda) · source
 - [openroadie](https://github.com/RoadieHQ/openroadie) — open-source context store and control platform for AI agents; I built most of it at Roadie · source
 - [claude-on-discord](https://github.com/gorkamolero/claude-on-discord) — Claude Code in Discord: one worktree per thread, live tool activity, a human approving the work · source
@@ -58,7 +56,6 @@ I push AI into places where it looks like it shouldn't work yet: long-form video
 
 ## Private systems
 
-- ai operations — an agent with company memory for a small US business, over Telegram, WhatsApp and voice, with an auction scout and Linear-fed dashboards
 - mercurius — futures trading infrastructure with a parity-tested backtester and safety gates, live with real money
 - infinity — options research where every parameter is cited and every claim can be regenerated
 - land unconditional — land acquisition on autopilot: county scans, owner research, offer estimates and a CRM
