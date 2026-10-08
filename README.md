@@ -24,9 +24,11 @@ I push AI into places where it looks like it shouldn't work yet: long-form video
 
 ## Agents & developer tools
 
+<a href="https://gorkamolero.github.io/#koda"><img src="https://gorkamolero.github.io/assets/koda/koda-poster.jpg" width="640" alt="Koda: Claude running on one Mac, a collaborator on another, in the same agent session"></a>
+
+- [koda](https://github.com/gorkamolero/koda) — a desktop app for working collaboratively with coding agents, where a teammate joins your Codex or Claude session live from their own machine · [watch](https://gorkamolero.github.io/#koda) · source
 - [openroadie](https://github.com/RoadieHQ/openroadie) — open-source context store and control platform for AI agents; I built most of it at Roadie · source
 - [claude-on-discord](https://github.com/gorkamolero/claude-on-discord) — Claude Code in Discord: one worktree per thread, live tool activity, a human approving the work · source
-- [koda](https://github.com/gorkamolero/koda) — a desktop IDE for agent coding, built around review: checkpoints, visual diffs, isolated worktrees · source
 - [maestro](https://github.com/gorkamolero/maestro) — a headless life manager: spaces, priorities and working context that agents read and update · source
 - [paperclip-adapter-openrouter](https://github.com/gorkamolero/paperclip-adapter-openrouter) — any OpenRouter model through one tool loop, no local CLI · source
 - [molter](https://github.com/gorkamolero/molter) — people's agents negotiating a date for them, revealing details step by step · source
@@ -38,7 +40,7 @@ I push AI into places where it looks like it shouldn't work yet: long-form video
 - saga — the gen-AI pipeline behind my YouTube channels, in three iterations: [tubesleuth](https://github.com/gorkamolero/tubesleuth) (2023: 205 Shorts in 34 days, 1,000 subscribers), [saga-ai](https://github.com/gorkamolero/saga-ai) (2024: a writers' room of agents) and Cybertantra (2026: long-form) · source
 - [solderpunk](https://github.com/gorkamolero/solderpunk) — AI-assisted synth explorers: guided tutorials, live MIDI control, a cited knowledge base per instrument · source
 - [sidekick](https://github.com/gorkamolero/sidekick) — a music producer's copilot that sits beside Ableton Live · source
-- [carvingen](https://github.com/gorkamolero/carvingen) — a canvas for designing carvings with AI, from image variations to 3D models · source
+- [carvingen](https://github.com/gorkamolero/carvingen) — a node canvas for AI image, video and 3D generation · source
 
 ## Games
 
