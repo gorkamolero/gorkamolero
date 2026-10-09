@@ -54,6 +54,7 @@ I push AI into places where it looks like it shouldn't work yet: long-form video
 - [streamtui](https://github.com/gorkamolero/streamtui) — a terminal streaming client in Rust: search, cast to a screen, script it with JSON · source
 - [lingua-priority](https://github.com/gorkamolero/lingua-priority) — language pickers with sensible defaults, in a small library · source
 - [tarot-study](https://github.com/gorkamolero/tarot-study) — a mobile study companion for the Rider-Waite tarot, with all 78 cards, the suits, numbers, court cards, spreads and 40+ symbols, reflection prompts and personal notes, installable as a web app · source
+- [signal-trail](https://github.com/gorkamolero/signal-trail) — a phone app that records your mobile connection as you move and scores each trail for video and audio calls, from ping, jitter, packet loss, speed and dropouts · source
 
 ## Private systems
 
