@@ -27,7 +27,6 @@ I push AI into places where it looks like it shouldn't work yet: long-form video
 - [koda](https://github.com/gorkamolero/koda) — a desktop app for working collaboratively with coding agents, where a teammate joins your Codex or Claude session live from their own machine · [watch](https://gorkamolero.github.io/#koda) · source
 - [openroadie](https://github.com/RoadieHQ/openroadie) — open-source context store and control platform for AI agents; I built most of it at Roadie · source
 - [claude-on-discord](https://github.com/gorkamolero/claude-on-discord) — Claude Code in Discord: one worktree per thread, live tool activity, a human approving the work · source
-- [maestro](https://github.com/gorkamolero/maestro) — a headless life manager: spaces, priorities and working context that agents read and update · source
 - [paperclip-adapter-openrouter](https://github.com/gorkamolero/paperclip-adapter-openrouter) — any OpenRouter model through one tool loop, no local CLI · source
 - [molter](https://github.com/gorkamolero/molter) — people's agents negotiating a date for them, revealing details step by step · source
 
